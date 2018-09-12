@@ -1,4 +1,4 @@
-HTTrack3.49-2+htsswf+htsjava launched on Wed, 12 Sep 2018 16:39:57 at http://premiumsc.ml/Alice22 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 12 Sep 2018 16:39:57 at http://premiumsc.co/Tiffany/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 (winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://premiumsc.co/Tiffany/ -O1 "C:\Мои Web Сайты\Одностроничник снэп" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
