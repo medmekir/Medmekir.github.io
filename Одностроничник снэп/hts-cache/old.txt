@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-16:38:11	327/327	---M--	404	error ('Not%20Found')	text/html	date:Wed,%2012%20Sep%202018%2012:38:11%20GMT	http://premiumsc.co/robots.txt		(from )
-16:38:12	1570/1570	---M-Z	-1	error ('Error%20when%20decompressing')	text/html	date:Thu,%2006%20Sep%202018%2008:50:42%20GMT	http://premiumsc.co/Tiffany/	C:/%d0%9c%d0%be%d0%b8%20Web%20%d0%a1%d0%b0%d0%b9%d1%82%d1%8b/%d0%9e%d0%b4%d0%bd%d0%be%d1%81%d1%82%d1%80%d0%be%d0%bd%d0%b8%d1%87%d0%bd%d0%b8%d0%ba%20%d1%81%d0%bd%d1%8d%d0%bf/premiumsc.co/Tiffany/index.html	(from )
